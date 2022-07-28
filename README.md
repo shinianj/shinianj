@@ -2,7 +2,7 @@
 
 真寻系列
 
-# [私人商店(0.0)](https://github.com/shinianj/zhenxun_plugin_personalshop)
+# [私人商店(0.1)](https://github.com/shinianj/zhenxun_plugin_personalshop)
 
 
 
