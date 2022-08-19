@@ -4,6 +4,8 @@
 
 # [私人商店(0.1)](https://github.com/shinianj/zhenxun_plugin_personalshop)
 
+# [赛马娘工具包(0.1)](https://github.com/shinianj/zhenxun_plugin_uma_mn)
+
 
 
 nonebot2系列
