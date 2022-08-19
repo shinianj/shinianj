@@ -4,7 +4,7 @@
 
 # [私人商店(0.1)](https://github.com/shinianj/zhenxun_plugin_personalshop)
 
-# [赛马娘工具包(0.1)](https://github.com/shinianj/zhenxun_plugin_uma_mn)
+# [赛马娘工具包(0.1)(Hoshino插件适配)](https://github.com/shinianj/zhenxun_plugin_uma_mn)
 
 
 
